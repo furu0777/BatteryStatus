@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">バッテリー情報</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="menu_items">
+        <item>充電の状態</item>
+        <item>バッテリーの状態</item>
+        <item>充電率</item>
+        <item>ケーブルの接続状態</item>
+        <item>電池の電圧</item>
+        <item>電池の温度</item>
+        <item>電池の種類</item>
+    </string-array>
+</resources>
