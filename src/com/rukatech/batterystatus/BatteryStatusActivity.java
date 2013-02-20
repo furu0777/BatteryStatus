@@ -1,4 +1,4 @@
-package com.furu0777.batterystatus;
+package com.rukatech.batterystatus;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
